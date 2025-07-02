@@ -1,4 +1,4 @@
-## 👋 Yo
+## 👋 Hey
 
 I'm Nate Babyak&mdash;Software Engineering Student.
 
