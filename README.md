@@ -1,6 +1,6 @@
 # Hey, I'm Nate Babyak
 
-I'm a software engineering who enjoys learning new things and building things that others find useful.
+I'm a software engineer who enjoys learning new things and building things that others find useful.
 
 [natebabyak.com](https://www.natebabyak.com) &bull;
 [nate.babyak@outlook.com](mailto:nate.babyak@outlook.com) &bull;
